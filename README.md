@@ -30,7 +30,7 @@ In order to start the seed use:
 
 
 ```bash
-$ git clone --depth 1 https://github.com/mgechev/angular-seed.git
+$ git clone --depth 1 https://github.com/arungdg/angular2-boilerplate.git
 $ cd angular-seed
 
 # install the project's dependencies
