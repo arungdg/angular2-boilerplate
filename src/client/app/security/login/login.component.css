@@ -1,0 +1,12 @@
+input {
+            max-width:30%;
+            margin-left:75px;
+        }
+label {
+            margin-left: 75px;
+        }
+button {
+            margin-left: 75px;
+            margin-bottom: 5px;
+            margin-top: 5px;
+        }
